@@ -129,6 +129,21 @@ Production-ready AWS infrastructure deployed using:
 - **Application Load Balancing**
 - **CloudWatch Monitoring and Logging**
 
+#### <a href="https://github.com/AlexiusThomas/aws-monitoring-platform">AWS Monitoring Platform</a>
+
+Production-ready AWS monitoring and observability platform deployed using:
+
+- **Terraform**
+- **Amazon EC2**
+- **NGINX**
+- **Infrastructure as Code**
+- **Custom VPC Networking**
+- **CloudWatch Dashboards**
+- **CloudWatch Alarms**
+- **Amazon SNS Notifications**
+- **Secure Security Groups**
+- **Automated Instance Provisioning**
+
 ---
 
 ### 🎓 Education
