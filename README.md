@@ -113,7 +113,7 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
 #### <a href="https://github.com/AlexiusThomas/aws-production-platform">AWS Production Platform</a>
 
@@ -147,6 +147,21 @@ Production-ready AWS infrastructure deployed using:
 - Continue growing toward **Platform Engineering, Infrastructure Consulting, and Solutions Architecture roles**
 - Contribute to **cloud infrastructure and DevOps projects**
 
+#### <a href="https://github.com/AlexiusThomas/aws-monitoring-platform">AWS Monitoring Platform</a>
+
+Production-ready monitoring platform demonstrating cloud infrastructure deployment, automation, and observability using:
+
+- **Terraform**
+- **Amazon EC2**
+- **Linux (Amazon Linux 2023)**
+- **NGINX Web Server**
+- **Infrastructure as Code (IaC)**
+- **Custom VPC Networking**
+- **CloudWatch Dashboards**
+- **CloudWatch Alarms**
+- **Amazon SNS Alerting**
+- **Secure Security Groups**
+- **Automated Bootstrapping with User Data**
 ---
 
 ### 🧭 Upcoming Projects
