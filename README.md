@@ -1,4 +1,3 @@
-## 👩🏾‍💻 About Me
 # Hi, I'm Alexius Thomas 👋
 
 ### AWS Infrastructure | Systems Engineering | Site Reliability | DevOps
