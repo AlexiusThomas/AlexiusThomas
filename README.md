@@ -1,29 +1,284 @@
-# Hi 👋, I'm Alexius Thomas
+# Hi, I'm Alexius Thomas 👋
 
-### AWS Infrastructure | Systems Engineering | DevOps | Site Reliability Engineering
+### AWS Infrastructure | Systems Engineering | Site Reliability | DevOps
 
-I build and automate **AWS infrastructure and production-style cloud platforms** with a focus on reliability, observability, secure deployments, and operational troubleshooting.
+I build and automate **AWS infrastructure and production-style cloud platforms** with a focus on reliability, observability, secure deployment, and operational troubleshooting.
 
-My projects demonstrate hands-on work with **Terraform, AWS networking, ECS, Docker, CI/CD, CloudWatch, IAM, GitHub Actions, and infrastructure automation** — with an emphasis on understanding not only how systems are built, but how they **scale, fail, recover, and operate in production**.
+My projects demonstrate hands-on work with **Terraform, AWS networking, ECS, Docker, CI/CD, CloudWatch, IAM, GitHub Actions, Linux, and infrastructure automation**.
+
+I focus not only on building systems, but on understanding **how they deploy, scale, fail, recover, and operate in production**.
 
 ---
 
-## 🚀 About Me
+## 👩🏾‍💻 About Me
+# Hi, I'm Alexius Thomas 👋
 
-- ☁️ AWS infrastructure professional with hands-on experience supporting large-scale cloud environments
-- 🏗️ Building production-style AWS infrastructure using **Terraform, ECS, Docker, VPC networking, load balancing, and automation**
-- ⚙️ Developing automated deployment workflows using **GitHub Actions, CI/CD, Terraform, Docker, ECR, and ECS**
-- 📊 Building observability solutions using **CloudWatch dashboards, alarms, metrics, logs, and SNS notifications**
-- 🔧 Experienced with infrastructure deployment, networking, systems troubleshooting, hardware lifecycle operations, and technical problem solving
-- 🔐 Focused on **IAM, least privilege, secure automation, network isolation, and infrastructure security**
-- 🧠 Developing deeper expertise in **systems engineering, SRE, distributed systems, Linux, automation, and production operations**
-- 🤖 Exploring how generative AI services can be integrated into secure and operationally supportable AWS architectures
+### AWS Infrastructure | Systems Engineering | Site Reliability | DevOps
 
-### Engineering Mindset
+I build and automate **AWS infrastructure and production-style cloud platforms** with a focus on reliability, observability, secure deployment, and operational troubleshooting.
 
-**Build → Automate → Deploy → Monitor → Detect → Troubleshoot → Recover → Improve**
+My projects demonstrate hands-on work with **Terraform, AWS networking, ECS, Docker, CI/CD, CloudWatch, IAM, GitHub Actions, Linux, and infrastructure automation**.
 
-I approach cloud infrastructure as an operational system rather than simply a collection of AWS resources.
+I focus not only on building systems, but on understanding **how they deploy, scale, fail, recover, and operate in production**.
+
+---
+
+## 👩🏾‍💻 About Me
+
+- ☁️ Building production-style infrastructure on **AWS**
+- 🏗️ Developing reusable infrastructure with **Terraform and Infrastructure as Code**
+- ⚙️ Automating deployments through **GitHub Actions and CI/CD**
+- 🐳 Deploying containerized workloads with **Docker, Amazon ECR, and Amazon ECS**
+- 📊 Building observability with **CloudWatch dashboards, metrics, alarms, and SNS**
+- 🌐 Working with **VPCs, subnets, routing, load balancing, DNS, and security groups**
+- 🔐 Applying **IAM least privilege, OIDC authentication, and network isolation**
+- 🔧 Practicing systematic troubleshooting across infrastructure, networking, applications, and deployment pipelines
+- 📈 Designing systems around **availability, scalability, failure recovery, and operational visibility**
+
+### Engineering Approach
+
+`Build → Automate → Deploy → Observe → Troubleshoot → Recover → Improve`
+
+---
+
+## 🧠 Technical Skills
+
+### ☁️ AWS
+
+`VPC` `EC2` `ECS` `ECR` `S3` `Lambda` `IAM` `Route 53` `ALB` `Auto Scaling` `RDS` `DynamoDB` `CloudWatch` `SNS`
+
+### ⚙️ Infrastructure & DevOps
+
+`Terraform` `Docker` `GitHub Actions` `CI/CD` `Git` `Linux` `Infrastructure as Code`
+
+### 📊 Reliability & Observability
+
+`CloudWatch` `Metrics` `Logs` `Alarms` `SNS` `Health Checks` `Monitoring` `Failure Analysis`
+
+### 🌐 Networking
+
+`TCP/IP` `DNS` `VPC` `Subnets` `Routing` `Security Groups` `Load Balancing` `HTTP/HTTPS`
+
+### 💻 Programming & Automation
+
+`Python` `Bash` `SQL`
+
+### 🔐 Security
+
+`AWS IAM` `OIDC` `Least Privilege` `Network Isolation` `Security Groups` `Cloud Security`
+
+---
+
+# 🚀 Featured Engineering Projects
+
+## 🥇 AWS Production Platform
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/AlexiusThomas/aws-production-platform)
+
+**Production Infrastructure | Containers | CI/CD | Automation**
+
+A production-style AWS platform demonstrating **Infrastructure as Code, containerized application deployment, CI/CD automation, secure authentication, networking, deployment validation, and operational troubleshooting**.
+
+### Technologies
+
+`Terraform` `ECS` `ECR` `Docker` `GitHub Actions` `OIDC` `IAM` `ALB` `VPC` `Python`
+
+### Engineering Highlights
+
+- Modular Terraform infrastructure
+- VPC networking
+- Application Load Balancer
+- Amazon ECS container deployment
+- Amazon ECR image repository
+- Dockerized application
+- GitHub Actions CI/CD
+- GitHub OIDC authentication with AWS
+- IAM deployment roles
+- Git SHA container versioning
+- Application health checks
+- Deployment stability verification
+- Operational troubleshooting
+
+### Deployment Flow
+
+```text
+Code
+ ↓
+GitHub
+ ↓
+GitHub Actions
+ ↓
+OIDC → AWS IAM
+ ↓
+Docker Build
+ ↓
+Amazon ECR
+ ↓
+Amazon ECS
+ ↓
+Application Load Balancer
+ ↓
+Health Validation
+**Operational Lifecycle**
+
+`Code → Build → Deploy → Validate → Troubleshoot → Recover`
+
+---
+
+## 📊 AWS Cloud Monitoring Platform
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/AlexiusThomas/aws-monitoring-platform)
+
+**Observability | Monitoring | Alerting | Operational Response**
+
+AWS monitoring and observability platform designed to provide **infrastructure visibility, automated alerting, operational detection, and repeatable deployment through Terraform**.
+
+### Technologies
+
+`AWS` `Terraform` `CloudWatch` `SNS` `IAM` `GitHub Actions`
+
+### Engineering Highlights
+
+- CloudWatch dashboards
+- CloudWatch metrics
+- CloudWatch alarms
+- SNS notifications
+- Infrastructure monitoring
+- Alert-driven operational response
+- Infrastructure as Code
+- Automated Terraform validation
+- Infrastructure health visibility
+- Troubleshooting workflows
+
+### Operational Flow
+
+```text
+Infrastructure
+      ↓
+   Metrics
+      ↓
+ CloudWatch
+      ↓
+    Alarm
+      ↓
+     SNS
+      ↓
+ Notification
+      ↓
+ Investigation
+```
+
+**Operational Lifecycle**
+
+`Monitor → Detect → Alert → Investigate → Remediate → Verify`
+
+---
+
+## 🏗️ AWS Three-Tier Architecture
+
+[![View Repository](https://img.shields.io/badge/GitHub-View_Repository-181717?logo=github)](https://github.com/AlexiusThomas/aws-three-tier-architecture)
+
+**Networking | Reliability | Scalability | Systems Architecture**
+
+Production-oriented AWS architecture demonstrating **network segmentation, Infrastructure as Code, high-availability design, scalability, security boundaries, and failure-mode analysis**.
+
+### Technologies
+
+`Terraform` `VPC` `EC2` `ALB` `Auto Scaling` `RDS` `IAM` `CloudWatch` `GitHub Actions`
+
+### Engineering Focus
+
+- VPC architecture
+- Public/private subnet segmentation
+- Application Load Balancing
+- Auto Scaling architecture
+- EC2 compute
+- Managed database architecture
+- Multi-AZ reliability concepts
+- Security boundaries
+- Terraform modules
+- Failure-mode analysis
+- Scaling analysis
+
+### Architecture
+
+```text
+Users
+  ↓
+Route 53
+  ↓
+Application Load Balancer
+  ↓
+Application Tier
+  ↓
+Managed Data Tier
+```
+
+### Reliability Questions
+
+This project explores:
+
+- What happens when an instance fails?
+- What happens when an Availability Zone fails?
+- Where are the potential single points of failure?
+- What happens at 10× traffic?
+- How should infrastructure health be monitored?
+- How should an outage be investigated?
+- How can the architecture recover from failure?
+
+**Engineering Lifecycle**
+
+`Architecture → Automation → Security → Availability → Scaling → Monitoring → Troubleshooting`
+
+---
+
+# 🔧 Production Systems Mindset
+
+I approach infrastructure as an **operational system**, not simply a collection of AWS resources.
+
+### Build
+
+Create repeatable infrastructure using Terraform and Infrastructure as Code.
+
+### Secure
+
+Apply IAM least privilege, network isolation, and secure authentication.
+
+### Automate
+
+Reduce repetitive manual operations using CI/CD, Terraform, and scripting.
+
+### Deploy
+
+Use repeatable deployment pipelines and versioned artifacts.
+
+### Observe
+
+Collect metrics, logs, health signals, and alarms.
+
+### Troubleshoot
+
+Trace problems through infrastructure dependencies to isolate the root cause.
+
+### Recover
+
+Restore service and verify that the system has returned to a healthy state.
+
+### Improve
+
+Use failures and operational data to improve automation, architecture, monitoring, and reliability.
+
+```text
+Detect
+   ↓
+Investigate
+   ↓
+Isolate
+   ↓
+Remediate
+   ↓
+Verify
+```
 
 ---
 
@@ -32,264 +287,12 @@ I approach cloud infrastructure as an operational system rather than simply a co
 - AWS Certified Solutions Architect – Professional
 - AWS Certified DevOps Engineer – Professional
 - AWS Certified Generative AI Developer – Professional
+- AWS Certified AI Practitioner
 - CompTIA Security+
 
 ---
 
-# 🧠 Technical Skills
-
-## ☁️ AWS & Cloud Infrastructure
-
-`AWS` `EC2` `ECS` `ECR` `Lambda` `S3` `VPC` `IAM` `Route 53` `ELB` `Auto Scaling` `RDS` `DynamoDB` `CloudWatch` `CloudTrail` `SNS`
-
-### Infrastructure
-
-- AWS architecture
-- VPC networking
-- Public/private subnet design
-- Security groups
-- Load balancing
-- Container infrastructure
-- Serverless architecture
-- IAM and access control
-- Monitoring and observability
-
----
-
-## ⚙️ DevOps & Infrastructure Automation
-
-`Terraform` `Docker` `GitHub Actions` `CI/CD` `Git` `Linux`
-
-- Infrastructure as Code
-- Terraform modules
-- Infrastructure automation
-- CI/CD pipelines
-- Containerization
-- Deployment automation
-- Git-based change management
-- GitHub OIDC authentication
-- Infrastructure validation
-- Immutable artifact versioning
-
----
-
-## 📊 Reliability & Operations
-
-- Amazon CloudWatch
-- Metrics and dashboards
-- CloudWatch alarms
-- SNS alerting
-- Application health checks
-- Deployment validation
-- Failure-mode analysis
-- Root-cause troubleshooting
-- Infrastructure monitoring
-- Operational troubleshooting
-- Reliability engineering fundamentals
-- Scaling analysis
-
-My troubleshooting approach follows:
-
-**Detect → Investigate → Isolate → Remediate → Verify**
-
----
-
-## 🌐 Systems & Networking
-
-- Linux
-- Windows
-- TCP/IP
-- DNS
-- Routing
-- Subnetting
-- HTTP/HTTPS
-- Load balancing
-- Network troubleshooting
-- Infrastructure troubleshooting
-
----
-
-## 💻 Programming & Scripting
-
-`Python` `Bash` `SQL`
-
-I use scripting and programming primarily for:
-
-- Infrastructure automation
-- Operational tooling
-- Cloud applications
-- Data processing
-- API interaction
-- Troubleshooting
-
----
-
-# 🚀 Featured Engineering Projects
-
-## 🥇 AWS Production Platform
-
-A production-style AWS platform demonstrating **Infrastructure as Code, containerized application deployment, CI/CD automation, secure authentication, networking, and operational deployment practices**.
-
-### Architecture
-
-```text
-Developer
-    ↓
-GitHub
-    ↓
-GitHub Actions
-    ↓
-OIDC → AWS IAM
-    ↓
-Docker Build
-    ↓
-Amazon ECR
-    ↓
-Amazon ECS
-    ↓
-Application Load Balancer
-    ↓
-Users
-```
-
-### Technologies
-
-`Terraform` `AWS ECS` `Amazon ECR` `Docker` `GitHub Actions` `OIDC` `IAM` `ALB` `VPC` `Python`
-
-### Engineering Highlights
-
-- Modular Terraform infrastructure
-- VPC with public and private networking
-- Application Load Balancer
-- Amazon ECS container deployment
-- Amazon ECR image repository
-- Dockerized Python application
-- GitHub Actions deployment pipeline
-- GitHub OIDC authentication with AWS
-- Git SHA container image versioning
-- ECS deployment stability verification
-- Application health endpoint
-- Deployment troubleshooting
-
-### Operational Workflow
-
-**Code → Build → Deploy → Validate → Troubleshoot → Recover**
-
-👉 [View AWS Production Platform](https://github.com/AlexiusThomas/aws-production-platform)
-
----
-
-## 📊 AWS Cloud Monitoring & Observability Platform
-
-AWS monitoring platform demonstrating how infrastructure can be **observed, monitored, and supported operationally**.
-
-### Technologies
-
-`Terraform` `Amazon CloudWatch` `Amazon SNS` `IAM` `AWS Networking`
-
-### Engineering Highlights
-
-- Infrastructure as Code
-- CloudWatch dashboards
-- CloudWatch alarms
-- Infrastructure metrics
-- Automated SNS notifications
-- Operational visibility
-- Infrastructure health monitoring
-- Alert-driven troubleshooting
-
-### Operational Workflow
-
-**Monitor → Detect → Alert → Investigate → Remediate → Verify**
-
-👉 [View AWS Monitoring Platform](https://github.com/AlexiusThomas/aws-monitoring-platform)
-
----
-
-## 🏗️ AWS Three-Tier Architecture
-
-A modular AWS architecture project focused on **network segmentation, high availability, scalability, security, and failure-mode analysis**.
-
-### Architecture
-
-```text
-Users
-   ↓
-Route 53
-   ↓
-Application Load Balancer
-   ↓
-Application Tier
-   ↓
-Managed Data Tier
-```
-
-### Engineering Focus
-
-- Multi-tier AWS architecture
-- VPC design
-- Public/private networking
-- Load balancing
-- Auto Scaling architecture
-- Managed database design
-- Security boundaries
-- Terraform modules
-- Multi-AZ reliability concepts
-- Failure-mode analysis
-- Scaling analysis
-
-### Reliability Questions Addressed
-
-- What happens if an instance fails?
-- What happens if an Availability Zone fails?
-- Where are the single points of failure?
-- What happens at 10× traffic?
-- How should the system be monitored?
-- How would an outage be troubleshot?
-
-👉 [View AWS Three-Tier Architecture](https://github.com/AlexiusThomas/aws-three-tier-architecture)
-
----
-
-# 🔧 How I Approach Production Systems
-
-When designing or troubleshooting infrastructure, I think across the complete system lifecycle.
-
-### Build
-
-Use Infrastructure as Code and repeatable architecture patterns.
-
-### Secure
-
-Apply IAM least privilege, network isolation, and secure authentication.
-
-### Automate
-
-Reduce repetitive manual operations using Terraform, CI/CD, and scripting.
-
-### Deploy
-
-Use repeatable pipelines and versioned artifacts.
-
-### Observe
-
-Collect metrics, logs, health signals, and alarms.
-
-### Troubleshoot
-
-Follow the request path and use evidence to isolate the failing component.
-
-### Recover
-
-Restore service and verify that the system has returned to a healthy state.
-
-### Improve
-
-Use failures and operational data to improve automation, architecture, and reliability.
-
----
-
-# 🧪 Currently Developing
+## 📚 Currently Developing
 
 I'm continuing to deepen my engineering skills in:
 
@@ -303,32 +306,41 @@ I'm continuing to deepen my engineering skills in:
 - Distributed systems
 - Infrastructure testing
 - Automated remediation
-- Generative AI infrastructure
+- Enterprise AWS networking
 
 ---
 
-# 🎯 Engineering Direction
+## 🎯 Engineering Direction
 
-I'm building toward engineering roles where I can work on the intersection of:
+I'm building deeper expertise at the intersection of:
 
-**Cloud Infrastructure + Systems + Automation + Reliability**
+### `Cloud Infrastructure + Systems + Automation + Reliability`
 
-Roles of particular interest include:
+I'm particularly interested in:
 
-- Systems Engineer
-- Site Reliability Engineer
-- Cloud Engineer
-- Infrastructure Engineer
-- Platform Engineer
-- DevOps Engineer
+- Systems Engineering
+- Site Reliability Engineering
+- Cloud Infrastructure Engineering
+- Platform Engineering
+- DevOps Engineering
+- Infrastructure Automation
 
 ---
 
-# 📫 Connect With Me
+## 📈 GitHub Activity
 
-**Alexius Thomas**
+![Alexius Thomas GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexiusThomas&show_icons=true&hide_border=true)
 
-AWS Infrastructure | Systems Engineering | DevOps | SRE
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexiusThomas&layout=compact&hide_border=true)
 
-[LinkedIn](https://www.linkedin.com/in/alexiusvictoria) • [GitHub](https://github.com/AlexiusThomas)
-````
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexius_Victoria-0A66C2?logo=linkedin)](https://www.linkedin.com/in/alexiusvictoria)
+
+[![GitHub](https://img.shields.io/badge/GitHub-AlexiusThomas-181717?logo=github)](https://github.com/AlexiusThomas)
+
+---
+
+### ⚙️ Build systems that are repeatable. Monitor what matters. Troubleshoot with evidence. Improve through automation.
