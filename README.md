@@ -1,15 +1,3 @@
-# Hi, I'm Alexius Thomas 👋
-
-### AWS Infrastructure | Systems Engineering | Site Reliability | DevOps
-
-I build and automate **AWS infrastructure and production-style cloud platforms** with a focus on reliability, observability, secure deployment, and operational troubleshooting.
-
-My projects demonstrate hands-on work with **Terraform, AWS networking, ECS, Docker, CI/CD, CloudWatch, IAM, GitHub Actions, Linux, and infrastructure automation**.
-
-I focus not only on building systems, but on understanding **how they deploy, scale, fail, recover, and operate in production**.
-
----
-
 ## 👩🏾‍💻 About Me
 # Hi, I'm Alexius Thomas 👋
 
