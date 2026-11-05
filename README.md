@@ -89,7 +89,6 @@ I treat security and reliability as **design requirements**, not afterthoughts:
 - AWS Certified Generative AI Developer – Professional
 - AWS Certified AI Practitioner
 - CompTIA Security+
-- **Bachelor's degree in Operations Management** — September 2026
 
 ## 🎯 Current Direction
 
